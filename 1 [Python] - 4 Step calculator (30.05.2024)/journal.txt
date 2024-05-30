@@ -1,0 +1,17 @@
+## Software for this Python project:
+
+I used PyCharm software from the JetBrain suite. It had been recommended to me and I had already used it!
+From what I've been told, it performs better than Visual Studio Code when it comes to Thread management, but I'm not sure I have enough knowledge to justify using it. I use it because it was recommended to me!
+
+--------------------------------------------------
+
+## Libraries used:
+
+I use the “math” module which, I believe, is included with python to perform logical operations.
+>> https://docs.python.org/3.6/library/math.html#module-math
+
+For aesthetics, there's “tkinter” included as standard, but I found a site talking about “customtkinter” which works in a similar way, with better aesthetics.
+Site of discovery: https://medium.com/@kevinteaches/create-stunning-uis-for-python-with-customtkinter-5b706a3b71da
+Installation: [ pip install customtkinter ]
+(To install it via this command, on windows with powershell, I think you need to have selected “install in PATH” when installing python!)
+>> https://customtkinter.tomschimansky.com/documentation/
